@@ -1,0 +1,11 @@
+{
+  "name": "404",
+  "author": "Andres Sweeney-Rios",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.22.10"
+  },
+  "scripts": {
+      "sass": "sass --watch style.sass style.css"
+  }
+}
